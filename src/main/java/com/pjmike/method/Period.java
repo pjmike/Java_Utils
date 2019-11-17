@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * <p>
- * 必要时进行保护性拷贝
+ * 《Effective Java》：必要时进行保护性拷贝
  * </p>
  *
  * <p>
