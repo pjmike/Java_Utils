@@ -1,4 +1,4 @@
-package com.pjmike.time;
+package com.pjmike.utils.time;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

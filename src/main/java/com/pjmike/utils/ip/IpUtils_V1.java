@@ -1,4 +1,4 @@
-package com.pjmike.ip;
+package com.pjmike.utils.ip;
 
 import javax.servlet.http.HttpServletRequest;
 

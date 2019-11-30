@@ -1,4 +1,4 @@
-package com.pjmike.memory;
+package com.pjmike.utils.memory;
 
 /**
  * @description:
