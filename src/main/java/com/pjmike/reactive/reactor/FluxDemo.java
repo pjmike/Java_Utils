@@ -15,7 +15,7 @@ public class FluxDemo {
         println("运行...");
         //发布A->B->C数据流
         Flux.just("A", "B", "C")
-//                .publishOn(Schedulers.elastic())//切换线程池
+//                .publishOn(Schedulers.elastic())//切换线程池,变成异步模式
                 .subscribe(
                         //数据消费=Subscriber#onNext(T)
                         FluxDemo::println,

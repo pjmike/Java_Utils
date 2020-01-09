@@ -16,13 +16,10 @@ public class FutureChainDataLoader extends DataLoader{
                 .thenRun(super::loadUsers)
                 .thenRun(super::loadOrders)
                 //完成时回调
-                .whenComplete((result, throwable) -> {
-                    System.out.printf("[线程：“" + Thread.currentThread().getName() + "] 加载完成");
-                })
+                .whenComplete((result, throwable) -> System.out.printf("[线程：“" + Thread.currentThread().getName() + "] 加载完成"))
                 //等待完成
                 .join();//可以去掉，去掉后就直接返回了
     }
-
     public static void main(String[] args) {
         new FutureChainDataLoader().load();
     }
