@@ -1,4 +1,4 @@
-package com.pjmike.design_patterns.builder;
+package com.pjmike.designpatterns.builder;
 
 import org.apache.commons.lang3.StringUtils;
 
