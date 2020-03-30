@@ -1,4 +1,4 @@
-package com.pjmike.filter;
+package com.pjmike.designpatterns.filter;
 
 import java.util.List;
 
