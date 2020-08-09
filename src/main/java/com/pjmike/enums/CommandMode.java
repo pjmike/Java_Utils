@@ -28,6 +28,22 @@ public enum  CommandMode {
         this.text = text;
     }
 
+    public int getMode() {
+        return mode;
+    }
+
+    public void setMode(int mode) {
+        this.mode = mode;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+
     public static CommandMode getEnum(final Integer mode) {
         return mode == null ? null : Arrays.stream(values())
                 .filter(t -> t.getMode() == mode)
