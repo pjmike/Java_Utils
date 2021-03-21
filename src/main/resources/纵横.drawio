@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T03:32:03.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="14.4.4" etag="K428_MZhk4mbE12RdHVr" type="github"><diagram id="qut_sk6kgwH_HIsvmPX_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-21T15:27:06.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Upz91xk9Dsw525g6bCZX" version="14.4.4" type="github">
+  <diagram id="qut_sk6kgwH_HIsvmPX_" name="第 1 页">
+    <mxGraphModel dx="1298" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wv5hBK0Ob2dPqFJWXDyv-1" value="iHR一站式入职平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="16" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wv5hBK0Ob2dPqFJWXDyv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="9" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
