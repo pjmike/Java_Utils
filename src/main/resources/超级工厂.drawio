@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T16:16:18.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9BBXp65bBQ87vnc3b8Kp" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T16:20:56.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="iwMWpGVBBKftPOjhHdGv" version="14.9.8" type="github">
   <diagram id="QJc5i9CVlvH6XnXGXRru" name="第 1 页">
     <mxGraphModel dx="1298" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,6 +254,27 @@
         </mxCell>
         <mxCell id="F5liAaDWDsk7o85AeB5s-38" value="默认模块&lt;br&gt;可配置在Diamond" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="780" y="559" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-48" value="数据采集" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="951" width="160" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-49" value="方案code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="F5liAaDWDsk7o85AeB5s-48">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-50" value="公司名" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="F5liAaDWDsk7o85AeB5s-48">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-51" value="销售ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="F5liAaDWDsk7o85AeB5s-48">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-52" value="模块code" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="F5liAaDWDsk7o85AeB5s-48">
+          <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-53" value="查看次数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="F5liAaDWDsk7o85AeB5s-48">
+          <mxGeometry y="146" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F5liAaDWDsk7o85AeB5s-54" value="停留时间" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="F5liAaDWDsk7o85AeB5s-48">
+          <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
